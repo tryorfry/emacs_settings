@@ -1,0 +1,128 @@
+cd ..
+rails s
+try
+cd .
+cd.. 
+cd ..
+cd..
+cd ..
+cd ..
+rails s
+cd ..
+cd ..
+cd ..
+rails s
+perl singaporepools.pl 
+perl singaporepools.pl 
+cd ..
+cd ..
+cd ..
+rails s
+rails s
+rails s
+rails s
+ls
+cd ..
+cd .
+bundle show bootstrap-social-rails
+rails s
+rails s
+rails s
+rails s
+rails s
+rails s
+perl -c test.pl 
+perl test.pl 
+perl test.pl 
+perl test.pl 
+perl test.pl 
+perl -c test.pl 
+perl -c test.pl 
+perl test.pl 
+perl test.pl 
+R
+perl -c test.pl 
+perl test.pl 
+perl test.pl 
+perl test.pl 
+perl test.pl 
+perl test.pl 
+perl test.pl 
+perl test.pl 
+perl test.pl 
+perl rough.pl
+perl rough.pl
+perl rough.pl
+perl rough.pl
+perl rough.pl
+perl rough.pl
+perl rough.pl
+perl rough.pl
+perl test.pl 
+perl test.pl 
+perl test.pl 
+perl test.pl 
+perl test.pl 
+perlcritic test.pl 
+perlcritic -brutal test.pl 
+perl test.pl 
+perl test.pl 
+perl test.pl 
+perl test.pl 
+perl test.pl 
+perl test.pl 
+perl test.pl 
+perl test.pl 
+perl test.pl 
+perl test.pl 
+perl test.pl 
+perl test.pl 
+perl test.pl 
+perl test.pl 
+perl test.pl 
+perl test.pl 
+perl test.pl 
+perl test.pl 
+perl test.pl 
+perl test.pl 
+perl test.pl 
+perl test.pl 
+perl test.pl 
+perl test.pl 
+perl test.pl 
+perl tester.t 
+perl tester.t 
+perl tester.t 
+perl tester.t 
+perl tester.t 
+perl tester.t 
+pwd
+perl tester.t 
+perl tester.t 
+perl tester.t 
+ls
+perl tester.t 
+perl tester.t 
+perl tester.t 
+perl tester.t 
+perl tester.t 
+perl tester.t 
+perl tester.t 
+perl tester.t 
+perl tester.t 
+perl tester.t 
+perl tester.t 
+perl tester.t 
+perl tester.t 
+prove tester.t 
+perldoc -m Mojo
+perl -de 1
+python test.py 
+python test.py 
+python test.py 
+SyntaxError: invalid syntax
+python test.py 
+python test.py 
+python test.py 
+python test.py 
+python test.py 
